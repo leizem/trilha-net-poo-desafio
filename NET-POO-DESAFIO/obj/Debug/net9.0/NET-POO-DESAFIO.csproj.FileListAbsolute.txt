@@ -1,0 +1,14 @@
+Z:\DIO\C Sharp\NET-POO-DESAFIO\obj\Debug\net9.0\NET-POO-DESAFIO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DIO\C Sharp\NET-POO-DESAFIO\obj\Debug\net9.0\NET-POO-DESAFIO.AssemblyInfoInputs.cache
+Z:\DIO\C Sharp\NET-POO-DESAFIO\obj\Debug\net9.0\NET-POO-DESAFIO.AssemblyInfo.cs
+Z:\DIO\C Sharp\NET-POO-DESAFIO\obj\Debug\net9.0\NET-POO-DESAFIO.csproj.CoreCompileInputs.cache
+Z:\DIO\C Sharp\NET-POO-DESAFIO\bin\Debug\net9.0\NET-POO-DESAFIO.exe
+Z:\DIO\C Sharp\NET-POO-DESAFIO\bin\Debug\net9.0\NET-POO-DESAFIO.deps.json
+Z:\DIO\C Sharp\NET-POO-DESAFIO\bin\Debug\net9.0\NET-POO-DESAFIO.runtimeconfig.json
+Z:\DIO\C Sharp\NET-POO-DESAFIO\bin\Debug\net9.0\NET-POO-DESAFIO.dll
+Z:\DIO\C Sharp\NET-POO-DESAFIO\bin\Debug\net9.0\NET-POO-DESAFIO.pdb
+Z:\DIO\C Sharp\NET-POO-DESAFIO\obj\Debug\net9.0\NET-POO-DESAFIO.dll
+Z:\DIO\C Sharp\NET-POO-DESAFIO\obj\Debug\net9.0\refint\NET-POO-DESAFIO.dll
+Z:\DIO\C Sharp\NET-POO-DESAFIO\obj\Debug\net9.0\NET-POO-DESAFIO.pdb
+Z:\DIO\C Sharp\NET-POO-DESAFIO\obj\Debug\net9.0\NET-POO-DESAFIO.genruntimeconfig.cache
+Z:\DIO\C Sharp\NET-POO-DESAFIO\obj\Debug\net9.0\ref\NET-POO-DESAFIO.dll
